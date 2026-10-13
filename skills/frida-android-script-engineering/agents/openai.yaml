@@ -1,0 +1,3 @@
+interface:
+  display_name: "Frida Android Script Engineering"
+  short_description: "Create and debug safe Android Frida hooks across APK versions"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Apktool Android APK Analysis"
+  short_description: "Install Apktool, decode Android APKs and map Smali code"

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Thin wrapper so `apktool` works as a bare command once tools/apktool is on PATH.
+exec java -jar "$(dirname "$0")/apktool.jar" "$@"

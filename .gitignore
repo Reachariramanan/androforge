@@ -1,0 +1,36 @@
+# Generated APK analysis and build output
+/workdir/
+
+# APK inputs and generated packages
+*.apk
+*.apks
+*.aab
+*.xapk
+
+# Android/build artifacts
+.gradle/
+build/
+out/
+*.dex
+*.class
+*.iml
+
+# Runtime captures, logs, and local exports
+traffic.jsonl
+InstagramCaptures/
+*.log
+session-export-*.jsonl
+
+# Local signing keys and keystores
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# Local IDE and OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

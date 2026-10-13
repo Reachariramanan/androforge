@@ -1,0 +1,3 @@
+interface:
+  display_name: "Instagram Tigon Capture Port"
+  short_description: "Version-adaptive Smali instrumentation and validation for authorized Instagram APK testing"
